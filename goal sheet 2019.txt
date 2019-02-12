@@ -1,0 +1,46 @@
+************************** 
+
+Adherence to shift time.
+
+
+I come to office accoriding to my shift timings and if there is any delay I used to inform to my supervisor regarding that and use to extend my shift timing on that particular day if I am late. I am always ready to extend shift timings when it is  required for the project.
+
+*********************
+Providing effective solution to banks for repetitive problems raised in application due to which client do not report the issue again
+
+I have resolved around  220-230 issues as early as possible after they got raised or assigned to me which helped bankers to get a solution and helped people in resolving issues when ever required. I tried to help bankers in explainig the issues which occur multiple times so that they will not be raised again.
+
+
+*************************
+
+Proficiency of latest technology aligned to the project. and introduction of new technologies like reactive programming, Continuous Integration, Continuous Development Test Driven Programming, etc
+
+Learnt core Java with the internal implementation of all the methods which are used regularly like hashcode(),toString(),equals() etc, and Java Synchronizer classes, multi threading and Atomic classes. Learnt Java 8. Also learned Spring boot in depth by creating projects with different examples and created few projects in spring boot with Mongo DB Also learned basic node JS and proficient with technologies like HTMl, CSS, bootstrap and thymeleaf. Learned about version control management importance and how to implement that, worked on Git by implementing variuos examples. Had In depth knowled on Object oriented design patterns,Data structures like stack, queue, linked list, trees, balanced binary tress like AVL tress, red-black trees, graphs and minimum spanning trees and variuos algorithms regarding graphs like Dijkstra's algorithm and belman ford algorithm etc, applied all this data structures and tried to solve various real time examples. 
+
+I am ready to learn any technology that is useful for project to implement. Learnt and tried developed practises like Continuous integration and continuos development with Jenkins by creating various example. Currently learning JUnit and trying to write JUint test cases for some sample programs.
+
+*************************
+
+No. of Contribution to IQA / EQAs / Internal code walk through and findings.
+
+I have done a code walk through on SFMS Admin and SFMS v6.0 application which helped me to develop  few modules in SFMS Hub  application which are new requirements and I have not taken any IQA/EQA and ready to take up if assigned.
+
+
+*********************************
+
+Developing Code, following coding standards of technology used, having rework less than 1%
+
+I tried to code what ever is given to me by following all the coding standards like by following naming conventions for methods, variables and classes etc, and by following SOLID principles .Involved in development of few modules of SFMS Hub application which are actually new requirement. Failed incoming messages module which can help user to reprocess multiple messages at a time instead of reprocessing it one by one, second module is make messages NACK which is also a new requirement, this modules helps users to change the message status to NACK using technologies like Spring boot, angular JS, material design and Thymeleaf. Later on assigned with testing of HUB PDC, HUB ODC, HUB DRDC servers . Worked on that testing of that servers  and participated in HUB production server migration activity. Also done performance testing of DRDC RBI MI.
+
+
+*******************************************
+
+Developing code, as per the timelines committed and providing proper reporting for the work completed and going on.
+
+Involved in developement of few hub modules and tried to complete the work by commited deadlined, if got struck with any issue while coding use to inform or take help of any one and tried to complete that, even extended timings if any there is any work to be completed and submitted on a particular timeline. Used to inform my supervior about my work status on regular basis about the amount of work completed so that if any changes are required can be done. Assigned with testing activities of HUB PDC, ODC and DRDC servers and tried to complete that tesiting part by provided timelines. Worked on Staturday's and Sunday's when ever it is required during the testing of HUB servers.
+
+************************************************
+
+Number of unplanned leaves.
+
+I have taken 4 unplanned leaves, used to inform my supervisor when ever I take leave.
