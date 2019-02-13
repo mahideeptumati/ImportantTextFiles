@@ -70,8 +70,8 @@ Developing code, as per the timelines committed and providing proper reporting f
 2. Even extended timings few times if any there is any work to be completed and submitted on a particular timeline. 
 3. Used to inform my supervior about my work status on regular basis about the amount of work completed so that if any changes are required can be done.
 3. Assigned with testing activities of HUB PDC, ODC and DRDC servers and tried to complete that testing part by provided timelines and provided support during HUB production servers migration.
-4.Worked on Staturday's and Sunday's when ever it is required during the testing of HUB servers.
-5.Fixed bugs found in HUB v6.0 application while testing in few modules. 
+4. Worked on Staturday's and Sunday's when ever it is required during the testing of HUB servers.
+5. Fixed bugs found in HUB v6.0 application  in few modules while testing. 
 
 ************************************************
 
