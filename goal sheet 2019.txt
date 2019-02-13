@@ -15,28 +15,18 @@ I have resolved around  200-210 issues as early as possible after they got raise
 
 Proficiency of latest technology aligned to the project. and introduction of new technologies like reactive programming, Continuous Integration, Continuous Development Test Driven Programming, etc
 
-1. Proficient with all the core Java concepts and with the internal implementation of all the important methods which are critical like hashCode(),toString(),equals() etc, and Java Synchronizer classes, multi threading and Atomic classes which are mainly used to maintain synchronisation in the code of processses of SFMS. Tried to write few native methods so that they can be executed fatser.
-
-2. Learnt Java 8 features which can improve the performance of application if implemented in SFMS. 
-
-3. Also learned Spring boot and Maven in depth by creating  different projects.
-
-4.Learned NoSQL database MongoDB and created few projects in spring boot with Mongo DB. Also learned basic node JS concepts 5. 
-5. Proficient with technologies like HTMl, CSS, bootstrap and thymeleaf which are used in development of SFMS Hub and Admin application. 
-
-6. Learned about version control management importance and working, worked on Git by implementing various examples which can be implemented in SFMS application so that all the activities can be tracked.
-
-7. Learnt and tried developement practises like Continuous integration and continuos development with Jenkins by creating various example which will keep integrating the code and test if any JUnit test cases are present and build the patch and run for every commit so that if any bugs found can be known and solved immediately.
-
-8. Proficient with relational databses like Oracle and MySQL and NoSQL database like Mongo DB
-
-9. Learned core concepts of Operating system so that during the development of any application we can code according to the architecture of the processor and operating system being used with which performnce of the appplication can be enhanced by eliminating issues like page faults or over CPU utilisation etc.
- 
-7.Currently learning JUnit and Webservices and trying to write JUint test cases for some sample programs.
-
-8.Had In depth knowled on Object oriented design patterns, SOLID principles which should be followed while coding and Data structures like stack, queue, linked list, trees, balanced binary tress like AVL tress, red-black trees, graphs and minimum spanning trees and on variuos algorithms regarding graphs like Dijkstra's algorithm and Belman Ford algorithm etc. Tried to implement all this concepts to solve various real time examples. 
-
-9. I am ready to learn any technology that is useful for project to implement. 
+1. Proficient with all the core Java concepts and with the internal implementation of all the important methods which are critical like hashCode(),toString(), equals() etc, and Java Synchronizer classes, multithreading and Atomic classes which are mainly used to maintain synchronization in the code of processes of SFMS. Tried to write a few native methods so that they can be executed faster.
+2. Learned Java 8 features which can improve the performance of application if implemented in SFMS. 
+3. Also learned Spring boot and Maven in depth by creating different projects.
+4. Learned NoSQL database MongoDB and created few projects in spring boot with Mongo DB. Also learned basic node JS concepts 5. 
+5. Proficient with technologies like HTML, CSS, bootstrap, and thymeleaf which are used in the development of SFMS Hub and Admin application. 
+6. Learned about version control management importance and working, working on Git by implementing various examples which can be implemented in SFMS application so that all the activities can be tracked.
+7. Learned and tried development practices like Continuous integration and continuous development with Jenkins by creating a various example which will keep integrating the code and test if any JUnit test cases are present and build the patch and run for every commit so that if any bugs found can be known and solved immediately.
+8. Proficient with relational databases like Oracle and MySQL and NoSQL database like Mongo DB
+9. Learned core concepts of Operating system so that during the development of any application we can code according to the architecture of the processor and operating system being used with which performance of the application can be enhanced by eliminating issues like page faults or over CPU utilization etc. 
+10. Currently learning JUnit and Webservices and trying to write JUnit test cases for some sample programs.
+11.Had In-depth knowledge on Object-oriented design patterns, SOLID principles which should be followed while coding and Data structures like stack, queue, linked list, trees, balanced binary trees like AVL trees, red-black trees, graphs and minimum spanning trees and on various algorithms regarding graphs like Dijkstra's algorithm and Belman Ford algorithm etc. Tried to implement all these concepts to solve various real-time examples. 
+12. I am ready to learn any technology that is useful for the project to implement. 
 
 
 
@@ -66,12 +56,12 @@ Developing Code, following coding standards of technology used, having rework le
 
 Developing code, as per the timelines committed and providing proper reporting for the work completed and going on.
 
-1. Involved in developement of few HUB application modules and tried to complete the work by commited deadlines, if got struck with any issue while coding use to inform or take help of any one and tried to complete that.
-2. Even extended timings few times if any there is any work to be completed and submitted on a particular timeline. 
+1. Involved in development of few HUB application modules and tried to complete the work by committed deadlines, if got struck with any issue while coding use to inform or take help of anyone and tried to complete that.
+2. Even extended timings a few times if any there is any work to be completed and submitted on a particular timeline. 
 3. Used to inform my supervisor about my work status on regular basis about the amount of work completed so that if any changes are required can be done.
-3. Assigned with testing activities of HUB PDC, ODC and DRDC servers and tried to complete that testing part by provided timelines and provided support during HUB production servers migration.
-4. Worked on Saturday's and Sunday's whenever it is required during the testing of HUB servers.
-5. Fixed bugs found in HUB v6.0 application in few modules while testing. 
+4. Assigned with testing activities of HUB PDC, ODC and DRDC servers and tried to complete that testing part by provided timelines and provided support during HUB production servers migration.
+5. Worked on Saturday's and Sunday's whenever it is required during the testing of HUB servers.
+6. Fixed bugs found in HUB v6.0 application in few modules while testing.  
 
 ************************************************
 
