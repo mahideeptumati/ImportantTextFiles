@@ -3,44 +3,156 @@
 Adherence to shift time.
 
 
-I come to office accoriding to my shift timings and if there is any delay I used to inform to my supervisor regarding that and use to extend my shift timing on that particular day if I am late. I am always ready to extend shift timings when it is  required for the project.
+I come to office according to my shift timings and if there is any delay I used to inform to my supervisor regarding that and also use to extend my shift timing on that particular day when I am late. Worked on few Saturday's and Sunday's when it is required and extended timings when required. I am always ready to extend shift timings when it is required for the project.
 
 *********************
 Providing effective solution to banks for repetitive problems raised in application due to which client do not report the issue again
 
-I have resolved around  220-230 issues as early as possible after they got raised or assigned to me which helped bankers to get a solution and helped people in resolving issues when ever required. I tried to help bankers in explainig the issues which occur multiple times so that they will not be raised again.
+I have resolved around  200-210 issues as early as possible after they got raised or assigned to me which helped bankers to get a solution and helped people in resolving issues when ever required. I tried to help bankers in explainig the issues which occur multiple times so that they will not be raised again.
 
 
 *************************
 
 Proficiency of latest technology aligned to the project. and introduction of new technologies like reactive programming, Continuous Integration, Continuous Development Test Driven Programming, etc
 
-Learnt core Java with the internal implementation of all the methods which are used regularly like hashcode(),toString(),equals() etc, and Java Synchronizer classes, multi threading and Atomic classes. Learnt Java 8. Also learned Spring boot in depth by creating projects with different examples and created few projects in spring boot with Mongo DB Also learned basic node JS and proficient with technologies like HTMl, CSS, bootstrap and thymeleaf. Learned about version control management importance and how to implement that, worked on Git by implementing variuos examples. Had In depth knowled on Object oriented design patterns,Data structures like stack, queue, linked list, trees, balanced binary tress like AVL tress, red-black trees, graphs and minimum spanning trees and variuos algorithms regarding graphs like Dijkstra's algorithm and belman ford algorithm etc, applied all this data structures and tried to solve various real time examples. 
+1. Proficient with all the core Java concepts and with the internal implementation of all the important methods which are critical like hashCode(),toString(),equals() etc, and Java Synchronizer classes, multi threading and Atomic classes which are mainly used to maintain synchronisation in the code of processses of SFMS. Tried to write few native methods so that they can be executed fatser.
 
-I am ready to learn any technology that is useful for project to implement. Learnt and tried developed practises like Continuous integration and continuos development with Jenkins by creating various example. Currently learning JUnit and trying to write JUint test cases for some sample programs.
+2. Learnt Java 8 features which can improve the performance of application if implemented in SFMS. 
+
+3. Also learned Spring boot and Maven in depth by creating  different projects.
+
+4.Learned NoSQL database MongoDB and created few projects in spring boot with Mongo DB. Also learned basic node JS concepts 5. 
+5. Proficient with technologies like HTMl, CSS, bootstrap and thymeleaf which are used in development of SFMS Hub and Admin application. 
+
+6. Learned about version control management importance and working, worked on Git by implementing various examples which can be implemented in SFMS application so that all the activities can be tracked.
+
+7. Learnt and tried developement practises like Continuous integration and continuos development with Jenkins by creating various example which will keep integrating the code and test if any JUnit test cases are present and build the patch and run for every commit so that if any bugs found can be known and solved immediately.
+
+8. Proficient with relational databses like Oracle and MySQL and NoSQL database like Mongo DB
+
+9. Learned core concepts of Operating system so that during the development of any application we can code according to the architecture of the processor and operating system being used with which performnce of the appplication can be enhanced by eliminating issues like page faults or over CPU utilisation etc.
+ 
+7.Currently learning JUnit and Webservices and trying to write JUint test cases for some sample programs.
+
+8.Had In depth knowled on Object oriented design patterns, SOLID principles which should be followed while coding and Data structures like stack, queue, linked list, trees, balanced binary tress like AVL tress, red-black trees, graphs and minimum spanning trees and on variuos algorithms regarding graphs like Dijkstra's algorithm and Belman Ford algorithm etc. Tried to implement all this concepts to solve various real time examples. 
+
+9. I am ready to learn any technology that is useful for project to implement. 
+
+
 
 *************************
 
 No. of Contribution to IQA / EQAs / Internal code walk through and findings.
 
-I have done a code walk through on SFMS Admin and SFMS v6.0 application which helped me to develop  few modules in SFMS Hub  application which are new requirements and I have not taken any IQA/EQA and ready to take up if assigned.
+I have done a code walk through on SFMS Admin and SFMS v6.0 application which helped me in getting understanding of what are the standards and principles to be followed while developing any modules. I have not taken any IQA/EQA and ready to take up if assigned.
 
 
 *********************************
 
 Developing Code, following coding standards of technology used, having rework less than 1%
 
-I tried to code what ever is given to me by following all the coding standards like by following naming conventions for methods, variables and classes etc, and by following SOLID principles .Involved in development of few modules of SFMS Hub application which are actually new requirement. Failed incoming messages module which can help user to reprocess multiple messages at a time instead of reprocessing it one by one, second module is make messages NACK which is also a new requirement, this modules helps users to change the message status to NACK using technologies like Spring boot, angular JS, material design and Thymeleaf. Later on assigned with testing of HUB PDC, HUB ODC, HUB DRDC servers . Worked on that testing of that servers  and participated in HUB production server migration activity. Also done performance testing of DRDC RBI MI.
+1.I tried to code what ever is given to me by following all the coding standards like by following naming conventions for methods, variables and classes etc, handling exceptions.
+2.Followed SOLID principles while writing any code.
+3.Involved in development of few modules of SFMS Hub application which are actually new requirement.
+3. Failed incoming messages module which can help user to reprocess multiple messages at a time instead of reprocessing it one by one.
+4. Second module is change message status to NACK which is also a new requirement, this modules helps users to change the message status to NACK, 
+5. Technologies used to develop this modules are Spring boot, angular JS, material design and Thymeleaf.
+6. Later on assigned with testing of HUB PDC, HUB ODC, HUB DRDC servers and reported bugs to the concerned team regarding them.
+7. Worked on that testing of that servers  and participated in HUB production server migration activity. 
+8. Done performance testing of DRDC RBI MI.
 
 
 *******************************************
 
 Developing code, as per the timelines committed and providing proper reporting for the work completed and going on.
 
-Involved in developement of few hub modules and tried to complete the work by commited deadlined, if got struck with any issue while coding use to inform or take help of any one and tried to complete that, even extended timings if any there is any work to be completed and submitted on a particular timeline. Used to inform my supervior about my work status on regular basis about the amount of work completed so that if any changes are required can be done. Assigned with testing activities of HUB PDC, ODC and DRDC servers and tried to complete that tesiting part by provided timelines. Worked on Staturday's and Sunday's when ever it is required during the testing of HUB servers.
+1. Involved in developement of few HUB application modules and tried to complete the work by commited deadlines, if got struck with any issue while coding use to inform or take help of any one and tried to complete that.
+2. Even extended timings few times if any there is any work to be completed and submitted on a particular timeline. 
+3. Used to inform my supervior about my work status on regular basis about the amount of work completed so that if any changes are required can be done.
+3. Assigned with testing activities of HUB PDC, ODC and DRDC servers and tried to complete that testing part by provided timelines and provided support during HUB production servers migration.
+4.Worked on Staturday's and Sunday's when ever it is required during the testing of HUB servers.
+5.Fixed bugs found in HUB v6.0 application while testing in few modules. 
 
 ************************************************
 
 Number of unplanned leaves.
 
-I have taken 4 unplanned leaves, used to inform my supervisor when ever I take leave.
+I have taken 4 unplanned leaves, used to inform my supervisor when ever I take leave and used to arange backup in my shift to avoid burden on rest of the people in that shift.
+
+
+************************************
+
+Documentation
+
+Documented user manual, installation manual and application configuration document for HUB v6.0 application 
+
+
+*****************************
+
+Number of training's Attended / Conducted / Certifications received.
+
+Done certifications for the following courses 	1. Programming Foundations: Design patterns in Lynda and core Java, Spring WBT with E1 competency level and Digital : Spring boot in iEvolve. Undergiong CS50's Introduction to Computer Science course and front end web developement courses in edx and Web Tooling & Automation in udacity.
+
+******************************************************
+
+Completing courses in iEvolve in Java, Spring and Spring Boot and increasing proficiency from E0 to E1
+
+Completed Java, Spring , Spring boot, Java 8 Lambda expressions, Agile framework and git with proficiency E1 in iEvolve. Also done  and Programmiong Foundations: Design patterns in Lynda  and undergoing CS50's Introduction to Computer Science course and front end web developement courses in edx and Web Tooling & Automation in udacity.
+
+ ***************************************************************
+ 
+ Value addition to the project.
+ 
+ 1. Involved in  testing of HUB PDC, ODC and DRDC servers and provided support during HUB production servers migration activity in Mumbai . 
+ 2. Present for HUB DR activity once. 
+ 3. Worked on few Saturday's and Sundays during testing when it is required.
+ 
+ And always give my 100% efforts in what ever work assigned to me.
+ 
+ 
+ 
+ 
+ Attributes
+ 
+ 
+ ******************
+ 
+ Analytical Ability
+ 
+ I am able to take rational decisions when required.I did that by analysing the root cause of the issues which I looked into and by that I have provided the proper solution
+ 
+ 
+ *********************************
+ 
+ Continual Learning
+
+ 
+ 1. I keep learning all the recent technologies regularly and try to implement in application by developing small smaple projects so that with which few works can be automated and work can be done easily when ever it is required. 
+ 2. Learnt Git and tried various examples on branching, forking and building local repositories and even worked on sample examples to integrate existing SVN repositors to create Git-SVN repositories.
+ 3. Learnt and tried developement practises like Continuous integration and continuos development with Jenkins by creating various example so that bugs can be rectified when even a developer commits code into repository and even development can be made faster where quality code can be written. 
+ 
+ 
+ *********************
+ 
+ Initiative / Proactiveness
+
+ I used to complete the work assigned to me on time ,by taking some inputs from my others when it is required. Took initiative in few development activities to complete them  by writing few utilities on time and even in solving banker issues also .I am always interested in learning new technologies and ready to accept some challenging tasks that will be helpful in improving the performance of the application if we implement them. Learned Git so that version control management can be done and even existing SVN repositories can be made as Git-SVN repositories with out disturbing them.
+ 
+ 
+ 
+ ***************************************
+ Innovation and Creativity
+
+ I am able to take rational decisions to make development activity effective, upon walk through of old code to meet the customer requirements to enhance performance by minimise bugs.I did the same by using following SOLID principles and used my knowledge on object oriented programming design patterns while coding something so that if there is any change request in future on existing code, it need not be changed more.
+ 
+  ***************************************
+
+ Team Skill
+
+ Team coordination is very good here.If I need any help while  solving tickets or if I got struct while developing any module  my colleagues guided me a lot and I have learned lot of new things that I don't know.I did the same thing in sharing my knowledge to others that I gained.
+ 
+ 
+ *********************************************
+ Values / Conduct
+
+ I used to take any decisions according to the company's core values by following the principles in our code of conduct. Even while providing solutions to bankers or while developing any code I feel responsible for the work I am doing so that quality output can be given.
