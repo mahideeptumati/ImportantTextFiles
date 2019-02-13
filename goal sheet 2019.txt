@@ -74,7 +74,7 @@ I have taken 4 unplanned leaves, used to inform my supervisor when ever I take l
 
 Documentation
 
-Documented user manual, installation manual and application configuration document for HUB v6.0 application 
+Documented user manual, installation manual and edited application configuration document for HUB v6.0 application for the client. 
 
 
 *****************************
