@@ -44,7 +44,7 @@ Proficiency of latest technology aligned to the project. and introduction of new
 
 No. of Contribution to IQA / EQAs / Internal code walk through and findings.
 
-I have done a code walk through on SFMS Admin and SFMS v6.0 application which helped me in getting understanding of what are the standards and principles to be followed while developing any modules. I have not taken any IQA/EQA and ready to take up if assigned.
+I have done a code walk through on SFMS Admin and SFMS v6.0 application which helped me in getting better understanding of the coding standards and principles to be followed while developing any modules. I have not taken any IQA/EQA and would like to take up if assigned.
 
 
 *********************************
