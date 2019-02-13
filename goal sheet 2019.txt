@@ -108,7 +108,7 @@ Completed Java, Spring , Spring boot, Java 8 Lambda expressions, Agile framework
  
  Analytical Ability
  
- I am able to take rational decisions when required.I did that by analysing the root cause of the issues which I looked into and by that I have provided the proper solution
+ I am able to take rational decisions when required. I did that by analyzing the root cause of the issues which I looked into and by that I have provided the proper solution.
  
  
  *********************************
@@ -116,29 +116,29 @@ Completed Java, Spring , Spring boot, Java 8 Lambda expressions, Agile framework
  Continual Learning
 
  
- 1. I keep learning all the recent technologies regularly and try to implement in application by developing small smaple projects so that with which few works can be automated and work can be done easily when ever it is required. 
- 2. Learnt Git and tried various examples on branching, forking and building local repositories and even worked on sample examples to integrate existing SVN repositors to create Git-SVN repositories.
- 3. Learnt and tried developement practises like Continuous integration and continuos development with Jenkins by creating various example so that bugs can be rectified when even a developer commits code into repository and even development can be made faster where quality code can be written. 
+ 1. I keep learning all the recent technologies regularly and try to implement in the application by developing small sample projects so that with which few works can be automated and work can be done easily whenever it is required. 
+ 2. Learned Git and tried various examples on branching, forking and building local repositories and even worked on sample examples to integrate existing SVN repository to create Git-SVN repositories.
+ 3. Learned and tried development practices like Continuous integration and continuous development with Jenkins by creating a various example so that bugs can be rectified when even a developer commits code into the repository and even development can be made faster where quality code can be written. 
  
  
  *********************
  
  Initiative / Proactiveness
 
- I used to complete the work assigned to me on time ,by taking some inputs from my others when it is required. Took initiative in few development activities to complete them  by writing few utilities on time and even in solving banker issues also .I am always interested in learning new technologies and ready to accept some challenging tasks that will be helpful in improving the performance of the application if we implement them. Learned Git so that version control management can be done and even existing SVN repositories can be made as Git-SVN repositories with out disturbing them.
+ I used to complete the work assigned to me on time, by taking some inputs from my others when it is required. Took initiative in a few development activities to complete them by writing a few utilities on time and even in solving banker issues also.I am always interested in learning new technologies and ready to accept some challenging tasks that will be helpful in improving the performance of the application if we implement them. Learned Git so that version control management can be done and even existing SVN repositories can be made as Git-SVN repositories without disturbing them.
  
  
  
  ***************************************
  Innovation and Creativity
 
- I am able to take rational decisions to make development activity effective, upon walk through of old code to meet the customer requirements to enhance performance by minimise bugs.I did the same by using following SOLID principles and used my knowledge on object oriented programming design patterns while coding something so that if there is any change request in future on existing code, it need not be changed more.
+ I am able to make rational decisions to make development activity effective, upon walk through of old code to meet the customer requirements to enhance performance by minimizing bugs. I did the same by using following SOLID principles and used my knowledge on object-oriented programming design patterns while coding something so that if there is any change request in future on existing code, it need not be changed more.
  
   ***************************************
 
  Team Skill
 
- Team coordination is very good here.If I need any help while  solving tickets or if I got struct while developing any module  my colleagues guided me a lot and I have learned lot of new things that I don't know.I did the same thing in sharing my knowledge to others that I gained.
+ Team coordination is very good here. If I need any help while solving tickets or if I got struct while developing any module my colleagues guided me a lot and I have learned a lot of new things that I don't know.I did the same thing in sharing my knowledge to others that I gained.
  
  
  *********************************************
