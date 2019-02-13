@@ -54,12 +54,12 @@ Developing Code, following coding standards of technology used, having rework le
 1.I tried to code what ever is given to me by following all the coding standards like by following naming conventions for methods, variables and classes etc, handling exceptions.
 2.Followed SOLID principles while writing any code.
 3.Involved in development of few modules of SFMS Hub application which are actually new requirement.
-4. Failed incoming messages module which can help user to reprocess multiple messages at a time instead of reprocessing it one by one.
-5. Second module is change message status to NACK which is also a new requirement, this modules helps users to change the message status to NACK, 
-6. Technologies used to develop this modules are Spring boot, angular JS, material design and Thymeleaf.
+4. First is Failed incoming messages module which can help user to reprocess multiple messages at a time instead of reprocessing single message at a time.
+5. Second module is change message status to NACK which is also a new requirement, this modules helps users to change the message status to NACK.
+6. Technologies used to develop this modules are Spring boot, Spring data JPA, angular JS, material design and Thymeleaf.
 7. Later on assigned with testing of HUB PDC, HUB ODC, HUB DRDC servers and reported bugs to the concerned team regarding them.
-8. Worked on that testing of that servers  and participated in HUB production server migration activity. 
-9. Done performance testing of DRDC RBI MI and created queries to check the no of transactions processed per minute.
+8. Worked on that testing of that servers and participated in HUB production server migration activity. 
+9. Done performance testing of DRDC RBI MI servers and created queries to check the no of transactions processed per minute.
 
 
 *******************************************
