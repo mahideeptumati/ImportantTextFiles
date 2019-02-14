@@ -81,13 +81,30 @@ Documented user manual, installation manual and edited application configuration
 
 Number of training's Attended / Conducted / Certifications received.
 
-Done certifications for the following courses 	1. Programming Foundations: Design patterns in Lynda and core Java, Spring WBT with E1 competency level and Digital : Spring boot in iEvolve. Undergiong CS50's Introduction to Computer Science course and front end web developement courses in edx and Web Tooling & Automation in udacity.
+Done certifications for the following courses 	
+1. Programming Foundations: Design patterns in Lynda.
+2. Foundation: Core Java, Foundation: Spring, Foundation: Java Solutions, Revision Control System: GIT, Rich Web Applications with Spring in iEvolve , Digital: Spring Boot -API and Java 8 lambda expressions in iEvolve.
+3. Completed Machine Learning foundations and Become a professional full-stack developer in udacity.
+3. Undergoing CS50  Introduction to Computer Science course and front end web development courses in edx.
+4. Undergoing Web Tooling & Automation in udacity.
+
+Willing to do certifications in Java and Deep learning.
+
 
 ******************************************************
 
 Completing courses in iEvolve in Java, Spring and Spring Boot and increasing proficiency from E0 to E1
 
-Completed Java, Spring , Spring boot, Java 8 Lambda expressions, Agile framework and git with proficiency E1 in iEvolve. Also done  and Programmiong Foundations: Design patterns in Lynda  and undergoing CS50's Introduction to Computer Science course and front end web developement courses in edx and Web Tooling & Automation in udacity.
+Completed following courses/certifications
+1. Foundation: Core Java with E1 competency in iEvolve.
+2. Foundation: Spring with E1 competency in iEvolve.
+3. Foundation: Java Solutions with E1 competency in iEvolve.
+4. Revision Control System: GIT with E1 competency in iEvolve.
+5. Rich Web Applications with Spring in iEvolve.
+6. Digital: Spring Boot Framework_FP, Digital: Java8 Innards_FP with E1 competency and Digital: Spring Boot - API Cantabile_FP with E0 competency where the complete assignment is done and 2 hands-on programs are left over which are part of Digital Spring boot in iEvolve.
+7. Process: Agile for Beginners_WBT in iEvolve.
+8. Programming Foundations: Design patterns in Lynda.
+9. Undergoing CS50's Introduction to Computer Science course and front end web development courses in edx and Web Tooling & Automation in udacity.
 
  ***************************************************************
  
